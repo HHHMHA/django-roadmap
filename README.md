@@ -104,9 +104,9 @@
   - django-oscar
   - django-oscar-api
   - django-oscar-invoices
-  - django-debug-toolbar==3.1.1
-  - pytest-django==3.10.0
-  - pytest-cov==2.10.1
+  - django-debug-toolbar
+  - pytest-django
+  - pytest-cov
 
 - custom management commands 
 - custom migrations 
