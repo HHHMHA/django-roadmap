@@ -128,7 +128,7 @@
 - Hosting (PAAS, SAAS, IAAS)
 
 
-## Part 8 (Front-End Optinal Miscellaneous)
+## Part 8 (Front-End Optional Miscellaneous)
 - NPM
 - Webpack  
 - SPA (Vue and Nuxt.js/React/Angular)
