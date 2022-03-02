@@ -114,7 +114,7 @@
 - Django cookie-cutter
 - Django Rest Framework
 - Wagtail 
-- Django cms 
+- Django cms
 
 ## Part 7 (Advanced Concepts & Devops & Production):
 - Elastic Stack
@@ -126,6 +126,7 @@
 - Nginx
 - Microservices
 - Hosting (PAAS, SAAS, IAAS)
+- System Design (a good book is System Design Interview - An Insider's Guide)
 
 
 ## Part 8 (Front-End Optional Miscellaneous)
