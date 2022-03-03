@@ -27,6 +27,7 @@
   
 ## Part 3 (Software Engineering)
 - Conventional Commits
+- Trunk-based Development (https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - Change Logs
 - README
 - Documentation
