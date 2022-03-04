@@ -39,7 +39,7 @@
 - TDD (Test-Driven Development)
 - BDD (Behavior-Driven Development)
 - DDD (Domain-Driven Design)
-- Issue Tracking (Github issues, JIRA, Redmine) Learn how to mention issue number in ticket
+- Issue Tracking (Github issues, JIRA, Redmine) Learn how to mention issue number in commit message
 - Continues Integration (Jenkins, Travis-CI)
 - pre-commit hooks (black, flake) 
 - .env files and environmental variables 
