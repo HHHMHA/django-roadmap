@@ -133,7 +133,7 @@
 ## Part 8 (Front-End Optional Miscellaneous)
 - NPM
 - Webpack  
-- SPA (Vue and Nuxt.js/React/Angular)
+- SPA (Vue and Nuxt.js/React and Next.js/Angular)
 - PWA
 - TypeScript
 - ...etc
