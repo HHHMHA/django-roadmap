@@ -2,7 +2,7 @@
 
 -------------------
 
-## Part 1 (Development Basics):
+## Part 1 (Development Basics):                fuck you
 - Python virtual environment (pipenv, virtualenv, pyenv)
 
 - Effective Python Book
