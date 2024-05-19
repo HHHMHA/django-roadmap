@@ -3,7 +3,7 @@
 -------------------
 
 ## Part 1 (Development Basics):
-- Python virtual environment (pipenv, virtualenv, pyenv)
+- Python virtual environment (pipenv, virtualenv, pyenv, poetry)
 
 - Effective Python Book
 
